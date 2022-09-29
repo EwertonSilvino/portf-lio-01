@@ -32,14 +32,20 @@ a:before {
     
 }
 
+a:hover {
+    color: black;
+}
+
+
 
 
 .logo {
     font-family:'Press Start 2P', cursive;
     font-size: 40px;
-    margin-top: 15px;
+    margin-top: 10px;
     color: white;
     text-shadow: 4px 4px black ;
+    margin-left: 20px;
 
 
 }
@@ -62,7 +68,8 @@ a:before {
 
 #button:hover {
     
-    transform: scale(1.1, 0.9);
+    
+    opacity: 0.9;
     
    
 }
