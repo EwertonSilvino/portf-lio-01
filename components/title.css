@@ -1,8 +1,8 @@
-h1 {
+.title {
     display: block;
     font-family: 'Press Start 2P', cursive;
     font-size: 40px;
     font-weight: 400;
     text-shadow: 4px 4px black;
-    color: white;
+    color: #432818;
 }

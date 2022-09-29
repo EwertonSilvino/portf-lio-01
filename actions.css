@@ -1,0 +1,26 @@
+.actions {
+    font-family:'Fira Code', monospace;
+    color: white;
+    text-decoration: none;
+    font-weight: 500px;
+    margin-right: 30px;
+   
+}
+
+
+
+
+
+.actions:before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #6f1d1b;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+.actions:hover {
+    color: black;
+}
