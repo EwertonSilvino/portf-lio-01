@@ -1,0 +1,28 @@
+.button {
+    display: inline-block;
+    background-color:#6f1d1b;
+    line-height: 60px;
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow: 4px 4px 0 black;
+    width: 160px;
+    height: 60px;
+    text-align: center;
+    cursor:pointer;
+    transition: 100ms linear;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'fira code',sans-serif;
+}
+
+.button:hover {
+    
+    transform: scale(1.06);
+    color: black;
+    
+ 
+    
+   
+}
+
