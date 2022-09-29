@@ -1,0 +1,29 @@
+.banner {
+    background-image: url(../img/pexels-roberto-nickson-2559941.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid black;
+    display: flex;
+    box-sizing: border-box;
+
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+
+}
+
+
+.banner .nav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 38px;
+}
+   
+   
+
+
+
