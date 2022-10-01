@@ -6,3 +6,10 @@
     text-shadow: 4px 4px black;
     color: #FFE6A7;
 }
+
+
+.title.-second {
+    color: black;
+    text-shadow: none;
+    text-align: center;
+}
