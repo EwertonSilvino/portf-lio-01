@@ -4,12 +4,14 @@
     font-size: 40px;
     font-weight: 400;
     text-shadow: 4px 4px black;
-    color: #FFE6A7;
+    color: white;
+    line-height: 70px;
 }
 
 
 .main-title.-second {
-    color: black;
+    color: white;
     text-shadow: none;
     text-align: center;
+    margin-top: 50px;
 }

@@ -8,13 +8,16 @@
     display: flex;
      color: white;
     font-family: "press start 2p";
+    align-items: center;
+    
 
 }
 
 
 
 .skill-tecnologia .icon {
-    margin-right: 25px;
+    width: 90px;
+    margin-right: 15px;
 }
 
 .right  {
@@ -22,3 +25,33 @@
     flex-direction: column;
     justify-content: space-around;
 }
+
+.right .title { 
+    margin-bottom: 10px;
+}
+
+
+
+.wrapper-skill {
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    
+   
+}
+
+.wrapper-skill .skill-tecnologia {
+    max-width: 430px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+}
+
+.wrapper-skill .skill-tecnologia:nth-child(even) {
+    margin-right: 1px;
+}
+

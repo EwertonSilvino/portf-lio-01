@@ -15,12 +15,12 @@
     content: "";
     width: 10px;
     height: 10px;
-    background-color: #6f1d1b;
+    background-color: #dda15e;
     display: inline-block;
     margin-right: 10px;
     
 }
 
 .actions:hover {
-    color: black;
+    color: #bc6c25;
 }
