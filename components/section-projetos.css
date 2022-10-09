@@ -16,19 +16,54 @@
 
 }
 
-.navigation-projetos {
+.whapper-projetos {
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
-    margin-top: 150px;
+    padding-top: 100px;
 }
 
-.exemplos {
 
+
+.imagem-projetos {
     width: 280px;
     height: 280px;
-    background-color: white;
-    
+    margin-top: 40px;
+    margin-bottom: 14px;
+    border: 2px solid black;
+    transition: 100ms linear;
+    cursor: pointer;
+}
 
+.imagem-projetos:hover {
+    transform: scale(1.1);
+}
+
+
+
+.card-projetos {
+    width: 380px;
+    height: 380px;
+    background-color: #606c38;
+    box-shadow: 4px 4px 20px white;
+    border: 4px solid black;
+    margin-top: 50px;
+    
+   
+}
+
+.card-projetos.-blue {
+    background-color: blue;
+}
+
+.card-projetos.-red {
+    background-color: red;
+}
+
+.capition-projetos {
+    font-size: 14px;
+    color: white;
+    font-family: "press start 2p";
+    padding-bottom: 10px;
+    line-height: 20px;
 }
 
