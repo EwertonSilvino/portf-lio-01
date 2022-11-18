@@ -1,0 +1,11 @@
+p {
+    color: white;
+    font-weight: bold;
+}
+
+.main-description {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(99, 99, 162);
+}
